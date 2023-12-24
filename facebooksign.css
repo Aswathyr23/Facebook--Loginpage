@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #dfe3ee;
+}
+.textbox{
+    margin-top: 220px;
+    margin-left: 150px;
+    word-spacing: 2px;
+    
+}
+.textbox h1{
+    font-size: 40px;
+    color: rgb(23, 137, 208);
+    font-family: sans-serif;
+}
+.textbox h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    width: 500px;
+}
+.container{
+    width: 400px;
+    height: 350px;
+    background-color: white;
+    margin-top: -194px; 
+    margin-right: 160px;
+    margin-block-end: 160px;
+    float: right;
+    border-radius: 12px;
+    text-align: center;
+
+}
+.form{
+    width: 90%;
+    float: right;
+    margin-right: 1px;
+    margin-top: 20px;
+    background-color: white;
+    padding: 16px;
+}
+.form input{
+    padding: 15px;
+    width: 332px;
+    border-radius: 7px;
+    margin-top: 13px;
+    margin-top: 10px;
+    border: 1px black;
+}
+.form button{
+    margin-top: 10px;
+    background-color: #1877f2;
+    padding: 13px;
+    width: 100%;
+    border-radius: 7px;
+    font-size: 15px;
+    color: white;
+    width: 328px;
+    border: none;
+    margin-top:10px ;
+    /* margin-right: 10px;
+    margin-left: 10px; */
+}
+p{
+    background-color: white;
+    color: #1877f2;
+    font-size: 14px;
+    margin-top: 15px;
+
+}
+p a{
+    color: #1877f2;
+
+}
+.btn{
+    background-color: white;
+}
+.btn button {
+    width: 240px;
+    margin-top: 15px;
+    padding: 16px;
+    border-radius: 7px;
+    margin-top: 10px;
+    font-size: 180x;
+    color: white;
+    background-color:#1b9c24;
+    border: none;
+}
